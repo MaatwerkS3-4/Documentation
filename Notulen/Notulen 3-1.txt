@@ -1,0 +1,23 @@
+Wesley:
+- onderzoek afgemaakt
+- Gaat vandaag niet aan proftaak werken
+
+Cyrion:
+- warning weggewerkt zodat ci/cd slaagt
+- testplan afgemaakt
+- gaat testen implementeren
+
+Ruben:
+- Designs geimplementeerd en bugs weggewerkt
+- Gaat random overzicht van discussies afmaken
+
+Niels:
+- Aan het up en downvote systeem aan het werken
+- Liep tegen probleem 
+
+Tags veranderen naar categorieen
+- apa richtlijnen
+	
+- url toevoegen
+
+

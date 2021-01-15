@@ -1,0 +1,122 @@
+- doorgeven dat we vanaf thius werken
+- documentatie uiterlijk op de woensdag opleveren
+- tags niet af maar wel in de presentatie als af
+- inloggen/registreren niet af maar wel in de presentatie
+- slogan
+- info van discussies update nog niet bij comments
+- kaas voorbeeld?? lorum ipsum
+
+-> Alsnog niet laten weten dat we vanaf thuis presenteren
+-> Lijst van taken die we zouden doen niet opgestuurd
+-> Geen lijst van dingen die we dus sws af zouden hebben
+-> Presentatie niet aangepast aan de dingen die we wel af hebben
+	-> Inloggen / registreren
+	-> Tags toevoegen
+
+-> Maatwerk contract bekijken 11 uur
+-> Ziet niet in waarom we voorbereid moeten zijn????
+
+
+Maatwerk contract
+- design document
+- alle documentatie updaten
+	-> projectplan
+	-> architectuur
+	-> testplan
+	-> testrapport
+- testen
+	-> frontend en backend testen implementeren
+
+- Notulen
+- Onderzoeksrapporten afmaken
+- Peerreview bijwerken
+- Internationalizeren
+
+------------------------------------------------------------
+Wat ging goed:
+- Feedback van de sprint ervoor was goed verwerkt
+	-> Demo beter voorbereid
+	-> Goede discussie gehad over de kwaliteit van wat we opleveren/wanneer een user story af is
+	-> Communicatie is aan het einde van de sprint veel verbeterd
+- Iedereen ving goed de kritiek van de discussie aan het begin van de sprint op, en hebben ook de feedback daarvan verwerkt
+
+Wat kon beter:
+- Communicatie met de PO
+	-> Niet laten weten wat de definitiefe lijst van user stories was voor deze sprint
+	-> Documentatie niet op tijd opgeleverd (als het goed is vantevoren laten weten?)
+	-> Niet laten weten dat bepaalde geplande user stories niet af gaan komen
+
+- Geen definitieve lijst van user stories voor deze sprint hebben
+- Taken nakomen of laten weten dat het niet gaat lukken
+	-> Lijst van definitieve user stories voor deze sprint opsturen
+	-> Documentatie op de woensdag opsturen
+	-> Testen weer implementeren en testrapport afmaken
+	-> Laten weten dat we vanaf thuis gaan presenteren
+	-> Presentatie aanpassen aan wat uiteindelijk niet afgekomen is (tags & inloggen / registreren)
+
+Hoe gaan we het beter aanpakken:
+- Een concrete uitgewerkte lijst van userstories om aan aan het eind van de sprint een goed project op te leveren opsturen
+- Communicatie met de PO houden als we van deze lijst afwijken, positief of negatief
+- Voor de daily standup van de week erna laten weten als iets niet lukt of niet af komt
+- Taken strikter nakomen, of laten weten dat het niet gaat lukken
+- Er rekening mee houden dat de woensdag voor de oplevering de deadline is, en niet de maandag ochtend
+- Doorgaan met Jira goed bijhouden
+-------------------------------------------------------
+
+Architectuur document niet genoeg
+Documentatie laten goedkeuren bij docenten
+Testrapport is goed genoeg, maar kan nog bijgewerkt worden voor s4
+Eind vandaag user stories opsturen
+Feedback vragen over leerdoelen in week 17
+Per persoon over leerdoelen gaan en toepassen aan de proftaak
+
+- Wat moet er nog gebeuren per persoon en hoe gaan we dat samen bereiken
+- 
+
+Feedback aan marcus vragen in plaats van Carli 
+
+- Weet iedereen van elkaar wat we op moeten leveren
+- 
+
+Niels
+Wat ging niet goed
+Niet heel goed deze sprint
+Niet heel agile
+Deel van de groep alleen doen wat er van ze gevraagd wordt
+Harder werken
+Communicatie kan wel beter
+
+Wat ging goed
+Niets perse heel goed
+beter met de backlog gewerkt, maar kan wel beter
+
+
+Wesley
+De werksfeer is niet heel positief op het moment
+Werk was niet heel erg op niveau
+Ging niet naar behoren, maar vind lastig om te zeggen wat hij er echt van moet vinden
+Productifiteit is de laatste tijd wat lager
+
+Cyrion
+Communicatie is niet heel goed
+
+Verbeteren op de punten die niet goed gaan, maar er komt elke keer weer wat nieuws
+Deze keer waren de dingen die gendaan moesten worden niet duidelijk was, dus niemand wist wie wat doet
+Als er iets wel klaar is, wordt er niet genoeg naar gekeken door de rest van de groep
+
+Veel beter feedback verwerkt die er gekregen is, bijvoorbeeld feedback op de backlog is meteen verwerkt
+De feedback van Carli op de layout is meteen aangepast, dus het verwerken van feedback gaat veel beter
+
+1. Lijst van concrete user stories vandaag naar carli opsturen
+2. Laten weten als iets niet lukt voor de volgende standup
+3. Als je voorneemt iets te doen, doe het dan echt.
+
+3 uur 
+
+
+
+
+
+
+	
+

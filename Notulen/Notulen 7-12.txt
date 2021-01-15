@@ -1,0 +1,73 @@
+- lombok plugin
+
+- disable unresolved database references or add database
+https://stackoverflow.com/questions/58666411/cannot-resolve-table-xx-in-spring-boot-application
+
+- swagger api documentation -> /api
+
+
+Carli opsturen:
+- documentatie
+- userstoreis die af zijn
+
+1. Documentatie
+	- Architectuur document
+	- testplan bijwerken
+	- testrapport
+2. User stories
+
+1. frontend/backend testing implementeren om alle user stories die af zijn te testen
+2. 
+
+
+Wesley:
+Deze week niet echt iets berijkt vanwege persoonlijke zaken
+
+Syrion
+Maandag besteed aan het project werkent te krijgen voor zichzelf, wat nu gelukt is.
+Heeft nu hulp van iemand in het team 
+
+Niels
+Niet heel veel afgekregen deze week
+Een paar dingen in de frontend en backend aangepast
+Users registeren
+
+1. User stories verduidelijken en op 1 plek opschrijven
+2. Jira helemaal bijwerken
+4. Frontend refractor afmaken
+5. Testplan bijwerken
+6. Backend testen aanpassen aan refactor
+7. Frontend testen implementeren
+8. Documentatie
+	- Onderzoeken netjes maken en inleveren
+	- Architectuur document bijwerken
+	- Testplan bijwerken
+	- Testrapport maken
+9. Presentatie voorbereiden
+
+1. Aanvul functie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

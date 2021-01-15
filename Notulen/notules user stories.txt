@@ -1,0 +1,15 @@
+gebruiker/lezer - Zo makkelijk mogelijk achterkomen wat ze moeten vinden
+
+
+Vraag stellen
+1. Wat moet ik vinden van? + onderwerp
+	- autocomplete
+
+2. Een lijst van actieve discussies
+	- Zoekveld
+	- Optie om vraag te stellen als die niet gevonden kan worden
+		- Duplicaties voorstellen als het er op lijkt.
+
+	- Nieuw
+	- Top altijd/maand/week/dag
+

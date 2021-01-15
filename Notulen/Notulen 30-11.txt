@@ -1,0 +1,21 @@
+Cyrion
+---------------------------
+User stories voor onderzoek uitgewerkt
+Niets tegengekomen dat niet mee zat
+
+Wesley
+--------------------------
+Design voor discussies overview
+Git goed gemerged, want daar was iets raars mee
+Was lastig om de css goed te krijgen, maar is uiteindelijk gelukt
+
+Niels
+-------------------------
+Designs geimplementeerd
+ResponseEntities geimplementeerd in de backend
+Niet tegen problemen aangelopen
+
+Ruben
+-------------------------
+Aan de designs gewerkt.
+Was meer werk dan verwacht dus gaat daar vandaag mee verder.

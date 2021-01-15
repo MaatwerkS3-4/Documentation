@@ -1,0 +1,15 @@
+Wesley
+Rest api opzetten, gaat vandaag in proftaak toevoegen. 
+Nog geen endpoints opgezet
+
+Cyrion
+Onderzoek echo chambers gedaan.
+Gaat nu onderzoek open-minded aan werken.
+
+Niels
+Met de front end bezig geweest.
+
+Ruben
+Documentatie project plan bijgewerkt, review document bijgewerkt, aan echo chamber onderzoek gewerkt.
+Gaat nu het echo chamber onderzoek afmaken, en presentatie voor oplevering voorbereiden.
+

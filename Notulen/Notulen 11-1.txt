@@ -1,0 +1,78 @@
+Project beschrijving
+Overzicht
+	- Doel
+	- Scope
+	- Onderzoeken
+	- Requirements
+API/database documentatie
+Designs
+Advise
+References
+
+Cyrion:
+- Testen afgemaakt
+- Test documentatie afgemaakt
+- Gaat zo nog kijken wat het meest belangrijk is om te gaan doen
+
+Wesley:
+- Niks gedaan 
+
+Niels:
+- Score systeem implementeren, maar is nog niet af
+- Niet tegen problemen aangelopen
+
+
+Vandaag kijken wat realistisch is.
+	- Hoeveel werk is het nog
+	- Uiterlijke tijd zetten
+
+
+
+Bespreken:
+
+
+Hele backlog afgaan
+	- wijzegingen
+	- Burndown chart
+	- volledige demo
+	- Hoe omgegaan met kwaliteit
+
+	- onderzoeken toelichten
+
+
+Laten weten wanneer we alles af gaan krijgen, en wanner we alles met carli kunnen bespreken.
+
+Plan maken wat realistisch is om met 3 man op te leveren, en dat vandaag met carli bespreken.
+
+
+
+
+
+
+
+WOENSDAG
+Ruben: documenten stylen
+
+
+
+
+
+
+
+Doorgeven aan carli verranderde userstory
+
+
+Woesdag Carli updaten over de oplevering
+
+
+
+
+
+
+
+
+
+
+
+
+

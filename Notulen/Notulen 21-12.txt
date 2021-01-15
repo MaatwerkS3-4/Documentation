@@ -1,0 +1,14 @@
+Wesley:
+- Onderzoek gedaan naar bronnen
+- Was lastig om het onderzoek op te zetten
+
+Niels:
+- Onderzoek naar scoresysteem
+- Gaat deze keer feedback vragen aan het team als deel van het onderzoek
+
+Ruben:
+- Designs gemaakt voor de user stories van deze sprint
+- Daarna wat user stories geimplementeerd
+
+Cyrion
+Afwezig

@@ -1,0 +1,37 @@
+	Groeps-Standup:
+User stories zijn afgemaakt.
+CI/CD is opgezet met github's ingebouwde tools. Nog niets getest, gezien er nog geen code is. Het is de bedoeling dat bij een commit moeten de tests slagen voor het door kan gezet worden.
+
+Architectuurdocument moet opgezet worden en moet elke sprint worden geüpdatet.
+	Omvat: Goal, stakeholders, constraints, user stories,
+	Echter was een wat aan de rollen die aangepast moest worden
+	
+...
+Er zijn nog geen projecten opgezet, de repo's zijn er wel.
+Ook het Scrumbord op Jira is gemaakt.
+
+
+Voor nu moeten dus de projecten opgezet worden.
+	- Niels zet het frontend project op
+		- Dit bevat implementatie van REACT
+	- Cyrion en Wesley doen de backend
+		- Dit bevat implementatie van Spring boot; een H2 Database; een REST api; Websockets en eventueel Swagger
+Projectplan afgemaakt worden.
+	- Ruben doet dit
+Eerste versie van het architectuurdocument moet worden opgezet.
+	- Ruben doet dit
+
+
+
+
+	Met Carli:
+Er is voor nu vrijheis met deadlines. Het is voor nu vanwege moeite met contactmomenten wat soepeler.
+Het liefst volgende week maandag een oplevering.
+	Daarvoor zou bij ons het projectplan al klaar moeten zijn samen met een groot deel van de project-opzet.
+Denk na waar je de inplementatie van bepaalde dingen neerzet. CI/CD kan bijv. in paragraaf van testplan gezien het met kwaliteitscontrole te maken heeft. Projectplan kan het algemene omschrijven waarbij testplan een diepere ingang geeft.
+Waar gaan technische zaken? Plan is om die in het architectuurdocument te zetten.
+Tip is om User Stories in een cellsheet als Excel te zetten.
+Probeer van architectuurdoc ook al feedback te vragen van een vakdocent. Bij archdoc niet alleen denken aan modellen maar ook aan goals en constraints van bijv. stakeholders.
+9:15 volgende week de "presentatie".
+
+Voor rollen is belangrijk scrummaster te hebben en een architect

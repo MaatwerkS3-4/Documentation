@@ -1,0 +1,20 @@
+Wesley:
+- Comments op een post bekijken
+- Niet genoeg tijd om het af te maken vanwege stage gerelateerde dingen
+- Geen problemen tegengekomen
+
+Cyrion:
+- Gewerkt aan het opzoeken naar discussies per trefwoord
+- Wat problemen met het project ophalen met Git.
+- Is nu bezig met het uitvinden van React en werken aan de backend
+- Zal het team laten weten als hij hulp nodig heeft
+- Gaat deze week dit afmaken, en eventueel het testplan en testrapport
+
+Ruben:
+- Geen tijd om deze week veel aan de proftaak te werken vanwege andere vakken
+- Gaat deze week eerst het werk van vorige keer inhalen, en daarna extra tijd bestenden aan wat er nog gedaan moet worden.
+
+Niels:
+- Backend tests gemaakt die van toepassing zijn
+- Als dat af is gaat hij kijken wat er nog over is
+

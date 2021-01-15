@@ -1,0 +1,17 @@
+Cyrion:
+- Testen met master gemerged
+- Documentatie afgemaakt
+- Feedback gehaald op testplan / testrapport
+
+- Gaat nu feedback verwerken
+
+- Weet niet precies hoe hij sommige dingen in het projectplan aan moet pakken
+
+Ruben:
+- Aan eigen dingen gewerkt
+- Vandaag de bronnen implementeren
+
+Niels:
+- Scoresysteem geimplementeerd
+- Vandaag account overzicht maken
+- 

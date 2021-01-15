@@ -1,0 +1,44 @@
+
+    Wat hebben we goed gedaan en moeten we bespreken zodat we het niet vergeten?
+    Wat hebben we geleerd?
+    Wat moeten we in de toekomst anders doen?
+    Wat begrijpen we nog steeds niet?
+
+Cyrion
+Soepel verlopen, weekelijkse meetings gingen goed, iedereen was duidelijk en wist wat ze moesten doen.
+Waar hij tegen aanliep was de takenverdeling. 
+
+Volgende keer taken meteen op het bord zetten.
+
+Wesley
+API maken ging goed, communicatie front-end back-end ging niet helemaal lekker.
+
+Niels
+Alles ging goed, goed samen gewerkt met Wesley. Planning ging niet echt goed.
+Maar dat zou nu wel beter moeten gaan. Volgende keer meteen taken goed in Jira zetten.
+Documentatie op Jira zetten. 
+
+
+------------------------------------------------------------------
+Tijdsdruk:
+- Push notificaties
+- Geen tijdslimit op discussie
+
+Neutraliseren statements reactie, productief houden:
+- Template voor posts maken
+- Systeem om aan te geven als reacties en/of discussies niet productief zijn.
+- Een systeem om te moderaten
+
+Dwingen een aan andere kant argument laten nemen:
+- Test discussies in kleinere groepen als oefendiscussies
+
+Blootstellen aan nieuwe dingen:
+- Zou automatisch moeten gaan bij het gebruik van de applicatie
+--------------------------------------------------------------------
+
+- documentatie inleveren via mail of canvas
+
+
+
+
+

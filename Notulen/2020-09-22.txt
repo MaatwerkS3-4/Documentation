@@ -1,0 +1,8 @@
+Projectplan domcument is aangemaakt, aanpassingen zijn echter nog nodig.
+Het is geregeld dat Jelle officieel er uit gaat, maar er word gekeken naar of er wat veranderd kan worden aan de groepen.
+We zijn de regels en de rest van het document nog doorgegaan. Hierbij zijn nog wat aanpassingen aanbevolen tussen groepsleden.
+Samenwerkingscontract is ook doorgenomen. 
+
+Voor nu is het plan om door te werken aan al de "sprint 0" voorbereiding, die een beetje verdeeld kan worden tussen de passende rollen voor alle documenten en voorbereiding.
+Als dit gewoon lukt kunnen we volgende week beginnen met de werkelijke "Sprint 1", anders blijft die voor nu nog een week op hold.
+Voor nu is het plan dat Niels de Jira/Scrumbord opzet; Cyrion en Wesley zetten de Github en de CI/CD op; Ruben werkt de User Stories uit en als er tijd is zal iemand de basis van het project al op kunnen zetten.

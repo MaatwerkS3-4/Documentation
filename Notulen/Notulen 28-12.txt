@@ -1,0 +1,30 @@
+Cyrion:
+- Niets gedaan gekregen
+
+Wesley:
+- Niets gedaan gekregen
+
+Niels:
+- Users inloggen en registreren geimplementeerd
+- Nationalisering aan het implmeneteren
+
+Ruben:
+- Styling bugs wegwerken
+- Zoekfunctie tags op de overzichtpagina
+- Aanvulfunctie voor de zoekbalk
+
+Random sorteren
+Upvote pas laten zien als de score 
+
+Random 
+
+Doorgeven aan carli verrandering us 22. 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+- Welke functie dient een bronvermelding? - overbodg, is vanzelfsprekend
+- Aan welke eisen moet een bronvermelding voldoen -> Hoe wordt een bron correct vermeld -> meerder soorten 	bronnen - Iets anders verwoorden?
+- Validiteit van een bron bepalen -> hoe kan dit verwerkt worden in de applicatie
+- Obervatie onderzoeks aanpak iets anders verwoorden. Lijkt nu heel erg op product analyse.
+- Hoe kunnen andere gebruikers het best bronnen beoordelen -> hoeft niet perse op deze manier, kan iets breder
+
+
+
+Hoofdvraag: Hoe kan het toevoegen van bronnen aan discussies en berichten en het valideren van deze bronnen het best geimplementeerd worden in de applicatie?
+
+- In welke vorm komen bronnen en aan welke eisen moeten ze voldoen?
+- Hoe kan het toevoegen van bronnen geimplementeerd worden in de applicatie? (waar moet de functionaliteit aan voldoen?)
+- Wat bepaald de validiteit van een bron?
+- Hoe kan het valideren van gebruikte bronnen geimplementeerd worden in de applicatie?
+
+--------------- bronnen invoegen ------------------
+- Bestaande product analyse -> In welke vorm komen bronnen? -> verschillende soorten bronnen, niet alleen website
+- Wat houden de apa richtlijnen in?
+- Hoe zien de functionaliteiten eruit om bronnen toetevoegen aan disucssies en berichten?
+
+
+--------------- bronnen valideren -------------------
+- Validiteit & betrouwbaarheid -> hoe kunnen we dit toepassen in onze applicatie
+
+
+1. Aan welke eisen voldoet een bronvermelding en hoe kunnen we dat het beste toepassen 
+
+
+
+- Brainstorm
+- peerreview
+- Available product analyse
+- Literatuut
+
+1. Waar voldoet een gedetaileerde bronvermelding aan en hoe gaan we dat implementeren.
+	- Wat zijn de apa richtlijnen
+	- Elke manier van word toelichten
+	- Welke volgens jou het meest gebruik worden en welke wij dan gaan implementeren
+
+2. Hoe kan de geimplementeerde bronvermelding methode gevalideerd worden en hoe kan dit toegepast worden op de discusussie en berichten.
+	- Hoe bepaald je de validiteid van een bron?
+	- Welke methodes van bronvermelding we gaan gebruiken
+	- Hoe kan dat toegepast worden in de applicatie
+		- automatich score geven aan een discussie/bericht vanwege de gebruikte bronnen (apa vs link vs niks bijv)
+		- Scoresysteem voor de gebruikers

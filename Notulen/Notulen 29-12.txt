@@ -1,0 +1,10 @@
+Wesley
+- Onderzoek afgemaakt
+
+Cyrion
+- CI/CD, maar is helaas nog niet gelukt
+
+Wesley
+- Onderzoek afgemaakt
+- Security afgemaakt
+- Internationaliseren geimplementeerd

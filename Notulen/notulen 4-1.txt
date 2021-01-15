@@ -1,0 +1,18 @@
+Wesley:
+- Onderzoek bronvermelding bijgewerkt
+- Niet tegen problemen aangelopen
+- Weet nog niet
+
+Cyrion
+- testen implementeren
+- deze week backend testen afmaken, frontend testen, en test rapport
+- Wat technische problemen tegengekomen, maar verder gelukt
+
+Ruben
+- 
+
+Niels
+- Sinds gister niet verder aan het project gewerkt
+- Gaat deze week de upvote user stories implementeren
+- Wat technische problemen tegengekomen hoe upvotes geimplementeer moeten worden
+

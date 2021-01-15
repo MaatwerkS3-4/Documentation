@@ -1,0 +1,21 @@
+Cyrion
+----------------------------
+Heeft onderzoek verder uitgewerkt, en heeft user stories aangemaakt die daar van toepassing zijn.
+We moeten dus nog even de user stories bespreken.
+Kon niet meteen bij de notities van die week, maar dat was snel opgelost.
+Is nu klaar met de user story van vorige week. Gaat na het bespreken beslissen wat hij deze week gaat doen.
+
+Wesley
+---------------------------
+Vorige week automatische api documentatie geimplementeerd met swagger.
+Gaat deze week verder aan de frontend werken.
+
+Ruben
+---------------------------
+View design afgemaakt. Onderzoek niet gelukt verder uit te werken
+Deze week het design bijwerken waar nodig, en alsnog het onderzoek uitwerken.
+
+Niels
+--------------------------
+Test plan afgemaakt. Daarna begonnen met backend testing.
+Geen problemen tegengekomen. Gaat deze week verder met de backend testen en eventueel de frontend testen.

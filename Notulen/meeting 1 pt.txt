@@ -1,0 +1,67 @@
+Rollen:
+Notulist - Cyrion
+Kwaliteit - Wesley
+Tester - Jelle
+Scrum master - Niels
+Projectleider / manager - Ruben
+
+jelle geraets
+wesley verhagen
+cyrion dongen
+ruben dieleman
+
+Elke maandag scrum master
+Aan eind van elke sprint voorgangbespreking en sprint oplevering
+
+Whatsapp, Teams, google drive, github, Jira
+
+Java (Spring Boot)
+React
+Swagger
+H2 database development/testing
+msql productie
+
+
+Mening categoriseren (politiek, wetenschap etc)
+Score gebasseerd op categorie 
+aangeven op oneerlijk gedrag (drogredenen)
+
+annoniem houden van ge
+Reageren op een steling waarna je toegang toegang krijgt tot de discussie
+
+
+Onderzoeken:
+- De beste manier om op een constructieve manier de discussie te voeren
+- Het score systeem dat gebasseerd positieve en neagetieve invloed op de discussie
+
+
+Mannier van discussie voeren
+	- Positieve invloed op mening willen verranderen
+	- Meerderheid moet niet de minderheid kunnen onderdrukken
+	- Bronnen verwerken in discussie
+	- Overzichtelijk houden discussie bij het opbreken in kleinere discussies
+
+Het score systeem
+	- Positieve invloed op mening willen verranderen
+	- Meerderheid moet niet de minderheid kunnen onderdrukken
+
+De manier van stellingen posten
+	- Stelling aanpassen na het posten
+
+100% annoniem in de discussie
+
+Mensen willen niet van mening verrandering
+
+Informatie pagina discusievoeren
+	- Open minded
+	- Hoe je discusie voerd
+
+Bronnen valideren
+
+Nep accounts aanpakken
+
+
+
+
+
+

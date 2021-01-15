@@ -1,0 +1,20 @@
+Eventueel kijken naar duidelijkheid van opties, zoals "altijd" omzetten naar "geen filter", als nog geen reden voor is
+
+Eventueel bespreken over hoe 'tags' worden aangegeven.
+Doe dat zsm om 
+
+
+In architectuurdoc de stakeholders beter uitwerken
+- zou willen kopen / product owner
+- programmeurs
+- admin of beheerder
+- evt. gebruikers (misschien zelf verschillen)
+Geef daarbij eventueel constraints
+
+
+High-level diagram erbij: heb je drielagenmodel, vierlagenmodel?
+
+
+Lever graag document week vtv in zodat je nog kan aanwerken
+Lever User Stories in als ze klaar zijn.
+
