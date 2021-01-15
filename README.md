@@ -1,4 +1,4 @@
-# Documentation for the ViewPoint application
+# Documentation
 This repository contains the documentation for the ViewPoint application project.
 
 The code repositories for the front- and backend can be found here:
